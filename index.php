@@ -1,6 +1,7 @@
 <!----------------------  Student  ---------------------------------!>
 <?php
 include "includes/header.php";
+includes "database.php"; 
 ?>
 <?php
 include "includes/navigation.php";
